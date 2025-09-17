@@ -38,3 +38,5 @@ if results[0]:
     print("It's a match! The unknown person is the known person.")
 else:
     print("No match found. The unknown person is different from the known person.")
+    
+    print("the project is to be completed %")
